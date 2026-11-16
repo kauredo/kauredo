@@ -1,12 +1,12 @@
 ### Hey, I'm Vasco
 
-Full-stack engineer from Portugal. Currently at [Pixelmatters](https://pixelmatters.com).
+Full-stack engineer from Portugal. Co-founder and CTO at [UpSpeech](https://upspeech.app).
 
 I build things I want to use.
 
-#### Co-founder @ [UpSpeech](https://upspeech.app)
+#### Co-founder and CTO @ [UpSpeech](https://upspeech.app)
 
-AI-powered platform for speech-language pathologists — session management, patient progress tracking, clinical report generation, and speech analysis tools. Built from scratch with Rails, React, and Python.
+A platform for speech-language pathologists and their patients: session management, practice between sessions that the therapist can see, and session reports drafted for the clinician to edit. Built from scratch with Rails, React, and Python.
 
 **Other projects:**
 
@@ -17,6 +17,8 @@ AI-powered platform for speech-language pathologists — session management, pat
 | [Protasca](https://www.protasca.com/) | Restaurant management SaaS |
 | [KidShare](https://www.kidshare.app/) | Co-parenting platform for shared expenses and schedules |
 | [Delivered](https://www.delivered.photos/) | Photo proofing and delivery for photographers |
+| [Therapy Resources](https://therapyresources.app) | Printable therapy resources for children: emotion cards, worksheets, visual schedules |
+| [CoinSprout](https://www.coin-sprout.com) | Budget app for couples that reads uploaded bank statements, with no bank connection |
 | [MyAgentWebsite](https://myagentwebsite.com) | Website builder for real estate agents |
 | [Calendário FPB](https://calendariofpb.pt) | Portuguese basketball federation calendar sync |
 
